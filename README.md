@@ -1,4 +1,6 @@
-![banner](banner.jpg)
+<p align="center">
+  <img src="banner.jpg" width="100%" height="220" style="object-fit: cover;" />
+</p>
 
 <h1 align="center">Hola, soy Antony 👋</h1>
 
