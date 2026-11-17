@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Antony 👋</h1>
 
 <p align="center">
-  Desarrollador en formación. 
+  Desarrollador pequeñín en formación. 
 </p>
 
 ## 🛠️ Lenguajes y herramientas
