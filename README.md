@@ -12,10 +12,8 @@
 
 ## 📊 Estadísticas
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonyRMV26&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntonyRMV26&layout=compact&theme=tokyonight" />
-</p>
+![Followers](https://img.shields.io/github/followers/AntonyRMV26?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/github/repos/AntonyRMV26?style=for-the-badge)
 
 ## 📫 Contacto
 
