@@ -7,7 +7,7 @@
 ## 🛠️ Lenguajes y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 ## 📊 Estadísticas
@@ -19,5 +19,5 @@
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/antony-rodrigo-morales-valverde-b9687b437)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonyrmv@gmail.com)
