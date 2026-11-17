@@ -10,11 +10,6 @@
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
-## 📊 Estadísticas
-
-![Followers](https://img.shields.io/github/followers/AntonyRMV26?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/github/repos/AntonyRMV26?style=for-the-badge)
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-rodrigo-morales-valverde-b9687b437/)
