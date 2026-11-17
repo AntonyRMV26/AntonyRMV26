@@ -1,3 +1,5 @@
+![banner](banner.jpg)
+
 <h1 align="center">Hola, soy Antony 👋</h1>
 
 <p align="center">
